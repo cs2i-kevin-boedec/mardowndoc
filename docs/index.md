@@ -4,6 +4,8 @@ icon: lucide/rocket
 
 # Get started
 
+# demarrer
+
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Commands
@@ -23,7 +25,7 @@ For full documentation visit [zensical.org](https://zensical.org/docs/).
 > Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
 
 !!! note
-
+ 
     This is a **note** admonition. Use it to provide helpful information.
 
 !!! warning
